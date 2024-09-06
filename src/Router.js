@@ -7,6 +7,7 @@ import { Feedback } from "./pages/feedback/Feedback";
 import { Signin } from "./pages/account/Signin";
 import { Join } from "./pages/account/Join";
 import { PageNotFound } from "./pages/pageNotFound/PageNotFound";
+import { Layout } from "./components/Layout";
 
 function Router() {
   return (

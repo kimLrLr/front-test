@@ -1,6 +1,6 @@
 export const routes = {
   main: "/",
-  feedback: "/feedback",
+  feedback: "/feedback:id",
   join: "/join",
   signin: "/signin",
 };
